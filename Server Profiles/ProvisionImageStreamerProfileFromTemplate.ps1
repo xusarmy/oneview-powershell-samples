@@ -86,7 +86,7 @@ $ParamHash = @{
     AssignmentType             = "Server";
     Server                     = $Server;
     ServerProfileTemplate      = $ServerProfileTemplate;
-    OSDeploymentPlanAttributes = $OSDeploymentAttributes
+    OSDeploymentAttributes = $OSDeploymentAttributes
 
 }
 
